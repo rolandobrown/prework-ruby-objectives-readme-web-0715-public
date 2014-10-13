@@ -24,6 +24,13 @@ Ruby is a programming language that we can use to do any task that needs to be a
 
 Ruby is one of the most popular languages to create web applications. A web framework is a tool that makes developing for the web relatively simple. The most popular web frameworks for Ruby are Sinatra and Ruby on Rails. All of these languages and web frameworks are considered server side languages as they will be run on an actual web server.
 
+Here are the 5 Must Know Concepts of Programming:
+* Syntax
+* Variables
+* Control Structures
+* Data Structures (Arrays and Hashes)
+* Tools
+
 ### Learning Objectives
 
   1. Basic Ruby syntax
